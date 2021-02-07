@@ -2,3 +2,5 @@ theme: jekyll-theme-time-machine
 title: Runes of Lunar
 description: Blog of Lunarantic
 show_downloads: false
+plugins:
+  - jemoji
