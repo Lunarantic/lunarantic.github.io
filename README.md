@@ -1,7 +1,7 @@
 Lunarantic
 ================================
 
-Welcome to my blog. Here you will be able to find all the posts that I enjoyed writing for knowledge spreading. Feel free to spread the word.
+Welcome to my blog. Here you will find all the posts I enjoyed writing to spread knowledge. Feel free to spread the word.
 
 ------
 
@@ -12,6 +12,7 @@ Welcome to my blog. Here you will be able to find all the posts that I enjoyed w
 |Programming Better|
 |---|
 |[When to comment](programming/better_comments)|
+|[What should be length of functions/methods](programming/function_length)|
 
 |Random Thoughts|
 |---|
