@@ -13,7 +13,8 @@ Welcome to my blog. Here you will find all the posts I enjoyed writing to spread
 |---|
 |[When to comment](programming/better_comments)|
 |[What should be length of functions/methods](programming/function_length)|
+|[Code Reuse](programming/code_reuse.md)|
 
 |Random Thoughts|
 |---|
-|[Code Reuse](thoughts/code_reuse.md)|
+||
